@@ -1,0 +1,11 @@
+numpy
+soundfile
+scipy
+torch
+tqdm
+librosa
+#demucs
+#onnxruntime-gpu
+#PyQt5
+gradio==3.27.0
+matplotlib
